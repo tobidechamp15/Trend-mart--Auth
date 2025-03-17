@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[Live Demo](https://trend-mart.vercel.app/)
+[Live Demo](https://trendmart-tobiloba.netlify.app/)
 
 ## Project Status
 
