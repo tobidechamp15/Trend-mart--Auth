@@ -64,7 +64,7 @@ To Visit App:
 
 - GitHub: [@githubhandle](https://github.com/tobidechamp15)
 - Twitter: [@twitterhandle](https://twitter.com/tobidechamp15)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tobiloba-oluwadare-4bba71249/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/oluwatobiloba-oluwadare-4bba71249/)
 
 ## 🤝 Contributing
 
